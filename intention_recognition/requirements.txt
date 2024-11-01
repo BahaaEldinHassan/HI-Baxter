@@ -1,0 +1,22 @@
+# requirements.txt
+
+# Core dependencies
+numpy
+opencv-python
+mediapipe
+pyrealsense2
+
+# Data handling
+pandas
+scipy
+
+# Visualization
+matplotlib
+
+# Machine Learning
+torch
+torchvision
+
+# Utilities
+tqdm
+Pillow

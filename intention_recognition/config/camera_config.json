@@ -1,0 +1,13 @@
+{
+    "color": {
+        "exposure": 100,
+        "white_balance": 4500
+    },
+    "depth": {
+        "laser_power": 360,
+        "accuracy": 3,
+        "filter_magnitude": 2,
+        "filter_smooth_alpha": 0.5,
+        "filter_smooth_delta": 20
+    }
+}
